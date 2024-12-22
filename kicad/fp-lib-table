@@ -1,0 +1,6 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "Espressif")(type "KiCad")(uri "${KIPRJMOD}/lib/footprints/Espressif.pretty")(options "")(descr ""))
+  (lib (name "oled")(type "KiCad")(uri "${KIPRJMOD}/lib/footprints/oled.pretty")(options "")(descr ""))
+  (lib (name "img")(type "KiCad")(uri "${KIPRJMOD}/img")(options "")(descr ""))
+)

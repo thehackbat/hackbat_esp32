@@ -1,0 +1,28 @@
+Reference,Value,Footprint,Qty,DNP,JLCPCB Part #
+"C1,C2",100n,Capacitor_SMD:C_0603_1608Metric,2,,
+C3,100n,Capacitor_SMD:C_0402_1005Metric,1,,
+"C4,C11",220p,Capacitor_SMD:C_0402_1005Metric,2,,
+"C5,C6",3.9p,Capacitor_SMD:C_0402_1005Metric,2,,
+C7,8.2p,Capacitor_SMD:C_0402_1005Metric,1,,
+"C8,C9",27p,Capacitor_SMD:C_0402_1005Metric,2,,
+C10,5.6p,Capacitor_SMD:C_0402_1005Metric,1,,
+C12,1u,Capacitor_SMD:C_0603_1608Metric,1,,
+"D1,D2",LED,LED_SMD:LED_0603_1608Metric,2,,
+D3,D_Schottky,Diode_SMD:Nexperia_CFP3_SOD-123W,1,,C82544
+J1,USB_B_Micro,Connector_USB:USB_Micro-B_Amphenol_10118193-0001LF_Horizontal,1,,
+J2,Conn_Coaxial,Connector_Coaxial:SMA_Amphenol_132289_EdgeMount,1,,
+J3,Micro_SD_Card_Det_Hirose_DM3AT,Connector_Card:microSD_HC_Hirose_DM3AT-SF-PEJM5,1,,C114218
+JP1,Jumper_2_Open,TestPoint:TestPoint_2Pads_Pitch2.54mm_Drill0.8mm,1,,
+"L1,L2",27nH,Inductor_SMD:L_0402_1005Metric,2,,
+L3,22n,Inductor_SMD:L_0402_1005Metric,1,,
+L4,27n,Inductor_SMD:L_0402_1005Metric,1,,
+"R1,R2",27,Resistor_SMD:R_0603_1608Metric,2,,
+"R3,R4,R5,R6,R7,R8,R9,R15,R16,R19",4k7,Resistor_SMD:R_0603_1608Metric,10,,
+R10,56k,Resistor_SMD:R_0402_1005Metric,1,,
+"R11,R12",0,Resistor_SMD:R_0603_1608Metric,2,,
+"R17,R18,R20,R21,R22,R23",10k,Resistor_SMD:R_0402_1005Metric,6,,
+"SW1,SW2,SW3,SW4,SW5",SW_Push,Button_Switch_SMD:SW_Push_1P1T_NO_6x6mm_H9.5mm,5,,C455109
+SW6,SW_SPST,Button_Switch_SMD:SW_SPDT_CK_JS102011SAQN,1,, C92658
+U2,CC1101,Package_DFN_QFN:QFN-20-1EP_4x4mm_P0.5mm_EP2.6x2.6mm_ThermalVias,1,,C29953
+U4,AMS1117-3.3,Package_TO_SOT_SMD:SOT-223-3_TabPin2,1,,
+Y1,27MHz,Crystal:Crystal_SMD_3225-4Pin_3.2x2.5mm,1,,C254353
