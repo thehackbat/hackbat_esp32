@@ -34,6 +34,18 @@ The SD Card in this version uses the SDIO interface with the microcontroller, so
 
 ![](./img/sdcard.png)
 
+## Layout
+
+The layout of the board is 2-layer with components in both layers.
+
+![](./img/layout.png)
+
+
+![](./img/3d1.png)
+
+![](./img/3d2.png)
+
+
 
 ## Get yours
 
